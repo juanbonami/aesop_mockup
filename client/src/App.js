@@ -4,7 +4,7 @@ export default class App extends Component {
   render() {
     return (
       <div data-component-id="comp" data-component-type="aesop">
-        <section>
+        <section className="head">
           <div className="wrapper">
             <div>
               <h1 className="title">Clensing, nourishing hand care </h1>
