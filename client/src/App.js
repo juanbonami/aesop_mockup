@@ -9,12 +9,9 @@ export default class App extends Component {
             <div>
               <h1 className="title">Clensing, nourishing hand care </h1>
               <div>
-                <p>
-                  Washing hands with vigour and rigour is an essential act. It
-                  is best followed by restorative, aromatic hydration: just like
-                  the uneasy mind, hard-working hands deserve attentive
-                  nurturing.
-                </p>
+                <p>Formulations for skin, hair, home and body</p>
+                <h6>Created with sensory pleasure in mind</h6>
+                <div></div>
               </div>
             </div>
           </div>
